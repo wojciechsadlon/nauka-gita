@@ -4,3 +4,13 @@ body {
     font-family: sans-serif;
     max-width: 300px;
 }
+
+/* Header */
+
+h1 {
+    letter-spacing: 1px;
+    }
+
+h2 {
+    font-style: italic;
+    }
